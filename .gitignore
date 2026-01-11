@@ -1,0 +1,26 @@
+# KiCad user prefs and caches
+*.kicad_prl
+fp-info-cache
+
+# KiCad auto-save, backup, and lock files
+*.kicad_pro-bak
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.kicad_pro~
+*.kicad_sch~
+*.kicad_pcb~
+*.kicad_pro.autosave
+*.kicad_sch.autosave
+*.kicad_pcb.autosave
+*.kicad_pro.lck
+*.kicad_sch.lck
+*.kicad_pcb.lck
+*-backups/
+
+# KiCad 5 legacy
+*-cache.lib
+*-rescue.*
+
+# OS cruft
+.DS_Store
+Thumbs.db
