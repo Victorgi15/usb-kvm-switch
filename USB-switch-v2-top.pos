@@ -1,0 +1,16 @@
+### Footprint positions - created on 2024-10-17T00:28:46+0200 ###
+### Printed by KiCad version 8.0.4
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                   Package                                                PosX       PosY       Rot  Side
+C1        10_µF                C_Rect_L4.0mm_W2.5mm_P2.50mm                       110.0000  -136.2500  -90.0000  top
+C2        10_µF                C_Rect_L4.0mm_W2.5mm_P2.50mm                       140.5000  -135.7500  -90.0000  top
+D1        LED                   LED_D5.0mm                                         103.5000  -132.4600  -90.0000  top
+D2        LED                   LED_D5.0mm                                         146.5000  -132.4600  -90.0000  top
+D3        1N5819                D_DO-41_SOD81_P10.16mm_Horizontal                  114.5000  -124.5800   90.0000  top
+D4        1N5819                D_DO-41_SOD81_P10.16mm_Horizontal                  135.5000  -114.4200  -90.0000  top
+J4        Screw_Terminal_01x02  TE_826576-2_1x02_P3.96mm_Vertical                  126.9800  -146.5000  180.0000  top
+R1        R220                  R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal   114.5000  -135.3100   90.0000  top
+R2        R220                  R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal   135.0000  -135.3100   90.0000  top
+U1        ~                     interupteur_12pins                                 129.5000  -117.2000  180.0000  top
+## End
